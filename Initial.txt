@@ -2,3 +2,4 @@ feature 1 added
 feature 2 added
 release 1
 hotfix 1
+feature 3
